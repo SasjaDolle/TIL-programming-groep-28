@@ -1,0 +1,75 @@
+﻿rdt_lines,duration_minutes,cause_nl,start_time
+"Amersfoort - Schiphol Airport, Leiden Centraal - Schiphol Airport, Lelystad Centrum - Schiphol Airport, Schiphol Airport - Utrecht Centraal",1700.0,defecte bovenleiding,2025-01-06 15:41:23
+Den Haag Centraal - Leiden Centraal,1694.0,defecte bovenleiding,2025-01-06 15:47:35
+"Brussel-Zuid/Midi - Rotterdam Centraal (HSL), Paris-Nord - Rotterdam Centraal (HSL)",1548.0,acties in het buitenland,2025-01-12 20:53:27
+"Liège-Guillemins - Maastricht, Maastricht - Maastricht Randwyck",1501.0,acties in het buitenland,2025-01-12 23:30:26
+Aachen Hbf - Heerlen,4070.0,beperkingen in de materieelinzet,2025-01-18 05:26:18
+Heerlen - Maastricht,5479.0,beperkingen in de materieelinzet,2025-01-18 05:26:21
+Hamm (Westf.) - Venlo,2357.0,werkzaamheden,2025-01-18 08:01:50
+"Amersfoort - Schiphol Airport, Lelystad Centrum - Schiphol Airport",1604.0,defecte bovenleiding,2025-01-18 18:25:40
+Schiphol Airport - Utrecht Centraal,1578.0,defecte bovenleiding,2025-01-18 18:37:09
+Leiden Centraal - Schiphol Airport,1578.0,defecte bovenleiding,2025-01-18 18:37:18
+Heerlen - Maastricht,13234.0,beperkingen in de materieelinzet,2025-01-23 03:47:16
+Aachen Hbf - Heerlen,1457.0,problemen met de personeelsinzet,2025-01-23 16:52:23
+Heerlen - Maastricht,6614.0,beperkingen in de materieelinzet,2025-02-01 09:51:44
+Aachen Hbf - Heerlen,7253.0,problemen op het spoor in het buitenland,2025-02-02 12:00:04
+Heerlen - Maastricht,1863.0,problemen met de personeelsinzet,2025-02-08 08:46:33
+'s-Hertogenbosch - Eindhoven,3082.0,defecte bovenleiding,2025-02-21 21:16:05
+"'s-Hertogenbosch - Utrecht Centraal, Tiel - Utrecht Centraal",1958.0,defect spoor,2025-03-04 03:35:34
+"Arnhem Centraal - Basel SBB, Arnhem Centraal - Düsseldorf Hbf, Arnhem Centraal - Frankfurt (M) Hbf",3831.0,beperkingen in de materieelinzet,2025-03-15 06:59:06
+"Antwerpen-Centraal - Roosendaal, Brussel-Zuid/Midi - Rotterdam Centraal (HSL), Paris-Nord - Rotterdam Centraal (HSL)",11051.0,acties in het buitenland,2025-03-24 07:26:11
+"Liège-Guillemins - Maastricht, Maastricht - Maastricht Randwyck",31351.0,acties in het buitenland,2025-04-08 05:18:14
+"Brussel-Zuid/Midi - Rotterdam Centraal (HSL), Paris-Nord - Rotterdam Centraal (HSL)",21665.0,acties in het buitenland,2025-04-14 21:41:20
+Aachen Hbf - Heerlen,1597.0,problemen op het spoor in het buitenland,2025-05-24 09:45:34
+Amsterdam Centraal - Schiphol Airport,1461.0,staking bij NS,2025-06-06 03:28:25
+Dordrecht - Roosendaal,4557.0,herstelwerkzaamheden,2025-06-06 22:08:18
+Breda - Roosendaal,2654.0,herstelwerkzaamheden,2025-06-11 05:43:27
+"Almelo - Zwolle, Amersfoort - Zwolle, Deventer - Zwolle, Emmen - Zwolle, Groningen - Zwolle, Kampen - Zwolle, Leeuwarden - Zwolle, Lelystad Centrum - Zwolle",1456.0,staking bij NS,2025-06-13 03:49:17
+"Arnhem Centraal - Zutphen, Deventer - Zutphen, Deventer - Zwolle",1455.0,staking bij NS,2025-06-13 03:50:29
+Amersfoort - Zwolle,1451.0,staking bij NS,2025-06-13 03:54:04
+"Almelo - Deventer, Almelo - Hengelo, Amersfoort - Apeldoorn, Apeldoorn - Deventer, Enschede - Hengelo",1449.0,staking bij NS,2025-06-13 03:56:10
+"Antwerpen-Centraal - Roosendaal, Breda - Roosendaal, Dordrecht - Roosendaal, Roosendaal - Vlissingen",1447.0,staking bij NS,2025-06-13 03:57:26
+Dordrecht - Roosendaal,1445.0,staking bij NS,2025-06-13 03:59:44
+"'s-Hertogenbosch - Eindhoven, Eindhoven - Roermond, Eindhoven - Tilburg, Eindhoven - Venlo",1443.0,staking bij NS,2025-06-13 04:02:02
+"Heerlen - Sittard, Maastricht - Sittard, Roermond - Sittard",1440.0,staking bij NS,2025-06-13 04:03:53
+Heerlen - Maastricht,3884.0,beperkingen in de materieelinzet,2025-06-15 07:52:11
+"Arnhem Centraal - Basel SBB, Arnhem Centraal - Düsseldorf Hbf, Arnhem Centraal - Frankfurt (M) Hbf",3832.0,beperkingen in de materieelinzet,2025-06-25 03:12:20
+Aachen Hbf - Heerlen,2188.0,problemen met de personeelsinzet,2025-06-27 02:15:27
+Alkmaar - Amsterdam Centraal,2434.0,herstelwerkzaamheden,2025-06-30 03:25:48
+Emmen - Zwolle,3391.0,beperkingen in de materieelinzet,2025-06-30 11:03:25
+Dordrecht - Rotterdam Centraal,3767.0,storing in een tunnel,2025-07-11 23:07:50
+Breda - Rotterdam Centraal (HSL),3758.0,storing in een tunnel,2025-07-11 23:16:21
+Roosendaal - Vlissingen,1617.0,herstelwerkzaamheden,2025-07-15 13:27:55
+Heerlen - Maastricht,8300.0,beperkingen in de materieelinzet,2025-08-12 06:51:14
+'s-Hertogenbosch - Utrecht Centraal,1935.0,defect spoor,2025-08-16 16:55:39
+"Berlin Ostbahnhof - Hengelo, Bielefeld Hbf - Hengelo, Hengelo - Oldenzaal",8144.0,beperkingen in de materieelinzet,2025-08-18 05:47:57
+Heerlen - Maastricht,4004.0,beperkingen in de materieelinzet,2025-08-18 07:25:43
+Amersfoort - Zwolle,2753.0,koperdiefstal,2025-08-25 05:06:31
+Lelystad Centrum - Zwolle,2745.0,koperdiefstal,2025-08-25 05:14:13
+Harlingen Haven - Leeuwarden,1670.0,inzet van hulpdiensten,2025-08-25 20:58:22
+Heerlen - Maastricht,2470.0,beperkingen in de materieelinzet,2025-08-31 07:18:34
+Hamm (Westf.) - Venlo,1820.0,problemen op het spoor in het buitenland,2025-08-31 11:12:56
+'s-Hertogenbosch - Tilburg,1540.0,defecte bovenleiding,2025-09-02 18:18:30
+Heerlen - Maastricht,8244.0,beperkingen in de materieelinzet,2025-09-04 07:03:31
+Aachen Hbf - Heerlen,6175.0,problemen op het spoor in het buitenland,2025-09-09 07:25:34
+Aachen Hbf - Heerlen,3288.0,problemen met de personeelsinzet,2025-09-15 07:13:21
+Heerlen - Maastricht,4378.0,beperkingen in de materieelinzet,2025-09-16 08:42:06
+"Arnhem Centraal - Basel SBB, Arnhem Centraal - Düsseldorf Hbf, Arnhem Centraal - Frankfurt (M) Hbf",18102.0,problemen op het spoor in het buitenland,2025-09-19 08:31:58
+"Amsterdam Centraal - Schiphol Airport, Leiden Centraal - Schiphol Airport",1866.0,defect spoor,2025-10-15 13:57:34
+Den Haag HS - Rotterdam Centraal,2553.0,defect spoor,2025-10-16 06:28:44
+Heerlen - Maastricht,2408.0,beperkingen in de materieelinzet,2025-10-23 07:54:24
+"Berlin Ostbahnhof - Hengelo, Bielefeld Hbf - Hengelo, Hengelo - Oldenzaal",3063.0,problemen op het spoor in het buitenland,2025-10-23 15:57:46
+Heerlen - Maastricht,4325.0,beperkingen in de materieelinzet,2025-10-25 00:47:01
+'s-Hertogenbosch - Utrecht Centraal,10876.0,herstelwerkzaamheden,2025-10-30 11:14:42
+Heerlen - Maastricht,3660.0,beperkingen in de materieelinzet,2025-11-01 11:12:11
+"Amsterdam Centraal - Utrecht Centraal, Schiphol Airport - Utrecht Centraal",5463.0,herstelwerkzaamheden,2025-11-03 03:57:17
+"Alkmaar - Amsterdam Centraal, Amsterdam Centraal - Haarlem, Amsterdam Centraal - Hoorn, Amsterdam Centraal - Schiphol Airport, Amsterdam Centraal - Utrecht Centraal",3508.0,herstelwerkzaamheden,2025-11-04 12:32:18
+Amersfoort - Zwolle,3048.0,wisselstoring,2025-11-14 02:42:46
+Lelystad Centrum - Zwolle,1502.0,koperdiefstal,2025-11-17 13:43:17
+Amersfoort - Zwolle,1512.0,koperdiefstal,2025-11-17 13:43:22
+Dordrecht - Rotterdam Centraal,2183.0,verstoring elders,2025-11-19 10:35:47
+"Breda - Dordrecht, Dordrecht - Roosendaal",3917.0,verstoring elders,2025-11-24 05:19:15
+"Den Haag HS - Rotterdam Centraal, Dordrecht - Rotterdam Centraal",3813.0,verstoring elders,2025-11-24 05:23:49
+"Brussel-Zuid/Midi - Rotterdam Centraal (HSL), Paris-Nord - Rotterdam Centraal (HSL)",3926.0,acties in het buitenland,2025-11-24 05:31:43
+"Liège-Guillemins - Maastricht, Maastricht - Maastricht Randwyck",3995.0,acties in het buitenland,2025-11-24 05:49:42
+'s-Hertogenbosch - Nijmegen,2105.0,defect spoor,2025-12-13 17:40:13
