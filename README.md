@@ -24,7 +24,7 @@ closure is compared with the same hours of an average week.
 | `Filtering_Service_data.ipynb` | filters the raw services archive down to the per-closure files in the root |
 | `data/` | the Dexter traffic exports, one folder per corridor, plus the disruption archive |
 | `figures/` | the figures the report shows, with a README naming each one |
-| `Archive/` | files that are no longer part of the analysis, with a README saying why each is there |
+| `archive/` | files that are no longer part of the analysis, with a README saying why each is there |
 | `*-*.csv`, `2022-utr-db.csv.gz` | the filtered realised services per closure, named `<month>-<year>-<corridor>` |
 
 The traffic data under `data/` is organised as `data/data_<corridor>/<Planned or Unplanned>/`,
