@@ -15,10 +15,8 @@ saving a figure under a different name breaks the image in the report.
 | `07_maastricht_planned.png` | Figure 8 | `read_folder_plot_data('Maastricht-Heerlen', 'Planned')` | |
 | `08_maastricht_unplanned.png` | Figure 9 | `read_folder_plot_data('Maastricht-Heerlen', 'Unplanned')` | |
 
-## How to get them here without touching the code
+## How they get here
 
-Run the cell in `main.ipynb`, then right click the figure in the output and choose
-"Save image as", into this folder, under the name in the table above. Eight times.
-
-Saving them from the code instead is one line per figure, `fig.savefig(...)`, if the group
-prefers that.
+`main.ipynb` writes all eight of them itself, with `savefig`, under exactly these names. Nothing
+has to be saved by hand; running the notebook from top to bottom is enough. The corridor map
+came from the midterm presentation and the logo from the same deck.
