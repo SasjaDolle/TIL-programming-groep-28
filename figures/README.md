@@ -1,6 +1,6 @@
 # figures
 
-The eight figures the report shows. `report.ipynb` links to them by these exact names, so
+The nine figures the report shows. `report.ipynb` links to them by these exact names, so
 saving a figure under a different name breaks the image in the report.
 
 | File | In the report | Comes from | Shows |
