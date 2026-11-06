@@ -19,7 +19,7 @@ closure is compared with the same hours of an average week.
 | Path | What it is |
 |---|---|
 | `report.ipynb` | **the report.** Text only, with the figures linked from `figures/` |
-| `main.ipynb` | the traffic analysis: reads the disruption archive and the Dexter exports and produces the eight figures |
+| `main.ipynb` | the traffic analysis: reads the disruption archive and the Dexter exports, produces the corridor figures, and runs the statistical tests |
 | `Actual_Services.ipynb` | the check on whether trains really stopped running, from the realised services archive |
 | `Filtering_Service_data.ipynb` | filters the raw services archive down to the per-closure files in the root |
 | `data/` | the Dexter traffic exports, one folder per corridor, plus the disruption archive |
