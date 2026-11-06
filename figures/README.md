@@ -1,6 +1,6 @@
 # figures
 
-The nine figures the report shows. `report.ipynb` links to them by these exact names, so
+The eleven figures the report shows. `report.ipynb` links to them by these exact names, so
 saving a figure under a different name breaks the image in the report.
 
 | File | In the report | Comes from | Shows |
@@ -14,6 +14,8 @@ saving a figure under a different name breaks the image in the report.
 | `06_dordrecht_unplanned.png` | Figure 7 | `read_folder_plot_data('Dordrecht-Roosendaal', 'Unplanned')` | |
 | `07_maastricht_planned.png` | Figure 8 | `read_folder_plot_data('Maastricht-Heerlen', 'Planned')` | |
 | `08_maastricht_unplanned.png` | Figure 9 | `read_folder_plot_data('Maastricht-Heerlen', 'Unplanned')` | |
+| `fundamental_diagram.png` | Figure 4, section 6 | `main.ipynb`, the schematic cell | why intensity is not demand |
+| `test_results.png` | Figure 11, section 8 | `main.ipynb`, after the tests | the tested change per closure |
 
 ## How they get here
 
